@@ -19,7 +19,7 @@
 		<img id="preload_img" src="images/pre/1.jpg">
 	</div>
 
-	<script src="js/rainyday.min.js"></script>
+	<script src="js/rainyday.min2.js"></script>
 	<script src="js/preload.js"></script>
 
 	<script src="js/jquery-2.0.3.min.js"></script>
