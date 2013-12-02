@@ -17,7 +17,7 @@
 			var engine = new RainyDay({
 				element: 'background',  // ID of image element
 				                        // This value is required
-				parentElement: preload, // Element to be used as a parent for the canvas
+				// parentElement: preload, // Element to be used as a parent for the canvas
 				                        // If not provided assuming the 'body' element
 				crop: [ 0, 0, 50, 60],  // Coordinates if only a part of the image should be used
 				                        // If not provided entire image will be used
