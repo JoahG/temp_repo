@@ -3,7 +3,7 @@ window.onresize = function()
 	var engine = new RainyDay({
 	    element: 'preload_img',  // ID of image element
 	                            // This value is required
-	    parentElement: preload_img, // Element to be used as a parent for the canvas
+	    // parentElement: preload_img, // Element to be used as a parent for the canvas
 	                            // If not provided assuming the 'body' element
 	//  crop: [ 0, 0, 50, 60],  // Coordinates if only a part of the image should be used
 	                            // If not provided entire image will be used
@@ -24,7 +24,7 @@ window.onload = function()
 	var engine = new RainyDay({
 	    element: 'preload_img',  // ID of image element
 	                            // This value is required
-	    parentElement: preload_img, // Element to be used as a parent for the canvas
+	    // parentElement: preload_img, // Element to be used as a parent for the canvas
 	                            // If not provided assuming the 'body' element
 	//  crop: [ 0, 0, 50, 60],  // Coordinates if only a part of the image should be used
 	                            // If not provided entire image will be used
@@ -43,7 +43,7 @@ window.onload = function()
 var engine = new RainyDay({
     element: 'preload_img',  // ID of image element
                             // This value is required
-    parentElement: preload_img, // Element to be used as a parent for the canvas
+    // parentElement: preload_img, // Element to be used as a parent for the canvas
                             // If not provided assuming the 'body' element
 //  crop: [ 0, 0, 50, 60],  // Coordinates if only a part of the image should be used
                             // If not provided entire image will be used
